@@ -1,6 +1,6 @@
-# Class Exercise
+# Project 1: Assignment
 
-This repository contains solutions for a class exercise, consisting of four C programs (`question1.c` through `question4.c`).
+This repository contains solutions for a class assignment, consisting of four C programs (`question1.c` through `question4.c`).
 
 ## Files
 
