@@ -136,7 +136,7 @@ void freeBST(BSTNode* root) {
 
 // Main
 int main() {
-    BSTNode* root = buildBSTFromFile("students.txt");
+    BSTNode* root = buildBSTFromFile("bst_students.txt");
 
     if (root == NULL) {
         printf("No data loaded.\n");
